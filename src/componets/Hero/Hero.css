@@ -1,0 +1,52 @@
+.Hero{
+    
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    height: 100vh;
+}
+
+.Hero img{
+    height: 90%;
+    width: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+   z-index: 1;
+}
+
+.Hero .heroText{
+   position: absolute;
+   z-index: 2;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100%;
+   height: 100vh;
+   flex-direction: column;
+   
+}
+
+.Hero .heroText h1{
+    color: white;
+    padding-top: 10px;
+}
+
+.Hero .heroText .btnHero{
+    text-decoration: none;
+    color: black;
+    font-weight:900 ;
+    background-color: white;
+    padding:5px 20px;
+    border-radius: 5px;
+
+}
+
+.Hero .heroText p{
+    color: white;
+    font-weight: 400;
+}
+
+.Hero .heroText .one{
+    display: none !important;
+}

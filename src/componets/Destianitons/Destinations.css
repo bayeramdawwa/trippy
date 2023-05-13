@@ -1,0 +1,11 @@
+
+
+.desimg{
+    height: 270px !important;
+    width: 270px;
+}
+
+.desimg img{
+    height: 100% !important;
+    width: 100%;
+}

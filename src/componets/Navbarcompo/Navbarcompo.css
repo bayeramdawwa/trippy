@@ -1,0 +1,39 @@
+.nav1{
+    width: 90% !important;
+    justify-content: space-between;
+    position: fixed !important;
+    left: 5%;
+    top: 20px;
+    border-radius: 10px;
+    z-index: 3;
+    box-shadow:  0px 10px 8px  rgb(61, 65, 65);
+    background-color: white;
+
+}
+
+.brand{
+    font-size: larger;
+    font-weight: 900;
+    color: black;
+}
+.NAVLINK{
+    text-decoration: none;
+    padding: 0 8px;
+    color: black;
+    font-size:medium;
+    font-weight: 600;
+}
+
+.NAVLINK2{
+    text-decoration: none;
+    padding: 0 10px;
+    margin-left: 10px;
+    color: black;
+    font-size:medium;
+    font-weight: 600;
+    background-color: rgb(233, 233, 231);
+}
+
+.nav1 i{
+    margin-right: 8px;
+}
