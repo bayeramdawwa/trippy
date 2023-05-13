@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trippy/static/css/main.0b657f54.css",
-    "main.js": "/trippy/static/js/main.ca319655.js",
+    "main.js": "/trippy/static/js/main.ccc8f8b6.js",
     "static/js/787.28cb0dcd.chunk.js": "/trippy/static/js/787.28cb0dcd.chunk.js",
     "static/media/3.jpg": "/trippy/static/media/3.84d5235cc693e15661d6.jpg",
     "static/media/2.jpg": "/trippy/static/media/2.bbb41348bb839b9124d8.jpg",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/trippy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/trippy/index.html",
     "main.0b657f54.css.map": "/trippy/static/css/main.0b657f54.css.map",
-    "main.ca319655.js.map": "/trippy/static/js/main.ca319655.js.map",
+    "main.ccc8f8b6.js.map": "/trippy/static/js/main.ccc8f8b6.js.map",
     "787.28cb0dcd.chunk.js.map": "/trippy/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b657f54.css",
-    "static/js/main.ca319655.js"
+    "static/js/main.ccc8f8b6.js"
   ]
 }
