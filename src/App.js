@@ -13,7 +13,7 @@ function App() {
     <div className="App">
   <Navbarcompo />
      
-    <Navigate to="/home" />
+    <Navigate to="/trippy/home" />
      <Outlet/>
       
    <Footer />

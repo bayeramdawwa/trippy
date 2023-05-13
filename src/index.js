@@ -21,7 +21,7 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/trippy/",
     element: (<App /> ),
  children:[
   {
