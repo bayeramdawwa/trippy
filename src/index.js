@@ -25,23 +25,23 @@ const router = createBrowserRouter([
     element: (<App /> ),
  children:[
   {
-    path: "home",
+    path: "/trippy/home",
     element: (<Home/>),
   },
   {
-    path: "about",
+    path: "/trippy/about",
     element: (<About/>),
   },
   {
-    path: "Service",
+    path: "/trippy/Service",
     element: (<Service/>),
   },
   {
-    path: "Contact",
+    path: "/trippy/Contact",
     element: (<Contact/>),
   },
   {
-    path: "Singup",
+    path: "/trippy/Singup",
     element: (<Singup/>),
   },
 ]

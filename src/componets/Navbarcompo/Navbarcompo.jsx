@@ -31,7 +31,7 @@ function Navbarcompo() {
           </Nav>
           
             
-            <Link   className='NAVLINK2' to = "/SingUp">Sing UP</Link>
+            <Link   className='NAVLINK2' to = "/trippy/SingUp">Sing UP</Link>
             
           
         </Navbar.Collapse>
