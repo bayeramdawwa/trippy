@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/trippy/static/css/main.0b657f54.css",
+    "main.js": "/trippy/static/js/main.ca319655.js",
+    "static/js/787.28cb0dcd.chunk.js": "/trippy/static/js/787.28cb0dcd.chunk.js",
+    "static/media/3.jpg": "/trippy/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/trippy/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/trippy/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/1.jpg": "/trippy/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/trippy/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/fontawesome-webfont.eot": "/trippy/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/trippy/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/8.jpg": "/trippy/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/trippy/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/5.jpg": "/trippy/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/trippy/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/6.jpg": "/trippy/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/night.jpg": "/trippy/static/media/night.ac6d287d5d0014553b87.jpg",
+    "static/media/logo.svg": "/trippy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trippy/index.html",
+    "main.0b657f54.css.map": "/trippy/static/css/main.0b657f54.css.map",
+    "main.ca319655.js.map": "/trippy/static/js/main.ca319655.js.map",
+    "787.28cb0dcd.chunk.js.map": "/trippy/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b657f54.css",
+    "static/js/main.ca319655.js"
+  ]
+}
